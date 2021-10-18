@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Dodanie czwwartej funkcjonalności.
+=======
+no no no
+>>>>>>> testing
